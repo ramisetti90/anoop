@@ -2,7 +2,7 @@ package gitMerging;
 
 public class SomeClass{
 	public void thoughtFe(){
-		System.out.println("i couldn't repair brakes");
+		System.out.println("chains");
 	}
 
 	public static void main(string[] args) {
