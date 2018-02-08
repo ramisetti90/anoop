@@ -6,6 +6,7 @@ public class SomeClass{
 	}
 
         public void upEvents(){
+		system.out.println("upcoming")
 		system.out.println("party");
 	}
 	public static void main(string[] args) {
