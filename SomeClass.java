@@ -13,7 +13,7 @@ public class SomeClass{
 	}
 
         public void upEvents(){
-		system.out.println("upcoming")
+		system.out.println("upcoming please join us")
 		for (String event : events)
 		system.out.println(event);
 	}
