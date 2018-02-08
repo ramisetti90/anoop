@@ -7,7 +7,7 @@ public class SomeClass{
 
         public void upEvents(){
 		system.out.println("upcoming")
-		system.out.println("party");
+		system.out.println("dinner");
 	}
 	public static void main(string[] args) {
 		SomeClass sc = new SomeClass();
