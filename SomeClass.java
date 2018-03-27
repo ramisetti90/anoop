@@ -7,7 +7,9 @@ public class SomeClass{
 		events.add("going to movie");
 		events.add("study on sunday");
         }
-
+	public void createJobs(){
+		System.out.println("rubber")
+		
 	public void thoughtFe(){
 		System.out.println("chains");
 	}
